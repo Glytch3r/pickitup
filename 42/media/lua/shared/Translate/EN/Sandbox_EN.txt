@@ -1,0 +1,7 @@
+Sandbox_EN = {
+
+	Sandbox_PickItUp = "PickItUp",
+	Sandbox_PickItUp_CanPickUpForageItems  = "Can PickUp ForageItems",
+	Sandbox_PickItUp_CanPickUpWorldInventoryItems  = "Can Pick Up WorldInventoryItems",
+
+}

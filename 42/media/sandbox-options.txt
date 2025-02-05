@@ -1,0 +1,14 @@
+VERSION = 1,
+
+
+option PickItUp.CanPickUpForageItems
+{
+	type = boolean, default = true,
+	page = PickItUp, translation = PickItUp_CanPickUpForageItems,
+}
+
+option PickItUp.CanPickUpWorldInventoryItems
+{
+	type = boolean, default = true,
+	page = PickItUp, translation = PickItUp_CanPickUpWorldInventoryItems,
+}
