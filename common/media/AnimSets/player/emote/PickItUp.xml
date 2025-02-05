@@ -7,8 +7,8 @@
 	<m_Looped>false</m_Looped>
 	<m_SyncTrackingEnabled>false</m_SyncTrackingEnabled>
 	<m_EarlyTransitionOut>true</m_EarlyTransitionOut>
-	<m_SpeedScale>0.50</m_SpeedScale>
-	<m_BlendTime>0.50</m_BlendTime>
+	<m_SpeedScale>0.0001</m_SpeedScale>
+	<m_BlendTime>2</m_BlendTime>
 
 	<m_Conditions>
 		<m_Name>emote</m_Name>
